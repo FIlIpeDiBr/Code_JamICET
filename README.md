@@ -8,7 +8,8 @@ RESUMO:
 
 A Code JamICET é uma competição de código que aborda as noções básicas de programação e estruturação de código, e tem o intuito de sinalizar possíveis dificuldades no aprendizado e fornecer uma base para compreensão e estudo de programação em campos como: estruturação de código, escalabilidade de algoritmo (aumento de complexidade), uso de recursos, reuso básico de código, compreensão e comunicação.
 
-INSTRUÇÕES
+INSTRUÇÕES:
+
 1.	A JAM terá duração de 7 (sete) dias e possui questões práticas e teóricas
 2.	A Jam deverá ser realizada em duplas e ambos devem participar da realização de cada questão
 3.	As questões serão disponibilizadas em blocos, onde cada bloco seguinte será disponibilizado ao término e validação do anterior. Caso uma questão seja considerada insuficiente a inconsistência será apontada e a dupla poderá enviar uma resposta corrigida.
