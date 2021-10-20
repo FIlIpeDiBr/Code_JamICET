@@ -5,7 +5,6 @@ Cada equipe deve criar uma pasta com o nome integrante_1 + integrante_2
 Os arquivos devem ser enumerados segundo o bloco a que se referem
 
 RESUMO:
-
 A Code JamICET é uma competição de código que aborda as noções básicas de programação e estruturação de código, e tem o intuito de sinalizar possíveis dificuldades no aprendizado e fornecer uma base para compreensão e estudo de programação em campos como: estruturação de código, escalabilidade de algoritmo (aumento de complexidade), uso de recursos, reuso básico de código, compreensão e comunicação.
 
 INSTRUÇÕES
