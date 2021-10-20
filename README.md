@@ -1,5 +1,6 @@
 # Code_JamICET
 *Area para a submissão e análise das respostas*
+
 Cada equipe deve criar uma pasta com o nome integrante_1 + integrante_2
 Os arquivos devem ser enumerados segundo o bloco a que se referem
 
